@@ -15,13 +15,12 @@ struct ContentView: View {
         VStack {
             Image(systemName: "globe")
                 .imageScale(.large)
-                .foregroundStyle(Color.white)
+                .foregroundStyle(Color.background)
             Text(Strings.Main.title)
         }
         .padding()
     }
 }
-
 #Preview {
     ContentView()
 }
