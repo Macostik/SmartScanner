@@ -8,7 +8,6 @@
 // All Rights Reserved.
 //
 
-
 import XCTest
 
 final class SmartScannerUITestsLaunchTests: XCTestCase {

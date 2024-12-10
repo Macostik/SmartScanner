@@ -8,7 +8,6 @@
 // All Rights Reserved.
 //
 
-
 import Testing
 @testable import SmartScanner
 

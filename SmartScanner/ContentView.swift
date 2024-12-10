@@ -8,7 +8,6 @@
 // All Rights Reserved.
 //
 
-
 import SwiftUI
 
 struct ContentView: View {
@@ -16,8 +15,8 @@ struct ContentView: View {
         VStack {
             Image(systemName: "globe")
                 .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
+                .foregroundStyle(Color.white)
+            Text(Strings.Main.title)
         }
         .padding()
     }
